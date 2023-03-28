@@ -1,0 +1,15 @@
+D:\Инженер тестировщик\1 четверть\Final\Final_Project_Block1\Control_work\bin\Debug\net6.0\Control_work.exe
+D:\Инженер тестировщик\1 четверть\Final\Final_Project_Block1\Control_work\bin\Debug\net6.0\Control_work.deps.json
+D:\Инженер тестировщик\1 четверть\Final\Final_Project_Block1\Control_work\bin\Debug\net6.0\Control_work.runtimeconfig.json
+D:\Инженер тестировщик\1 четверть\Final\Final_Project_Block1\Control_work\bin\Debug\net6.0\Control_work.dll
+D:\Инженер тестировщик\1 четверть\Final\Final_Project_Block1\Control_work\bin\Debug\net6.0\Control_work.pdb
+D:\Инженер тестировщик\1 четверть\Final\Final_Project_Block1\Control_work\obj\Debug\net6.0\Control_work.csproj.AssemblyReference.cache
+D:\Инженер тестировщик\1 четверть\Final\Final_Project_Block1\Control_work\obj\Debug\net6.0\Control_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Инженер тестировщик\1 четверть\Final\Final_Project_Block1\Control_work\obj\Debug\net6.0\Control_work.AssemblyInfoInputs.cache
+D:\Инженер тестировщик\1 четверть\Final\Final_Project_Block1\Control_work\obj\Debug\net6.0\Control_work.AssemblyInfo.cs
+D:\Инженер тестировщик\1 четверть\Final\Final_Project_Block1\Control_work\obj\Debug\net6.0\Control_work.csproj.CoreCompileInputs.cache
+D:\Инженер тестировщик\1 четверть\Final\Final_Project_Block1\Control_work\obj\Debug\net6.0\Control_work.dll
+D:\Инженер тестировщик\1 четверть\Final\Final_Project_Block1\Control_work\obj\Debug\net6.0\refint\Control_work.dll
+D:\Инженер тестировщик\1 четверть\Final\Final_Project_Block1\Control_work\obj\Debug\net6.0\Control_work.pdb
+D:\Инженер тестировщик\1 четверть\Final\Final_Project_Block1\Control_work\obj\Debug\net6.0\Control_work.genruntimeconfig.cache
+D:\Инженер тестировщик\1 четверть\Final\Final_Project_Block1\Control_work\obj\Debug\net6.0\ref\Control_work.dll
