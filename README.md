@@ -1,2 +1,2 @@
-# Final_Project_Block1
+# Алгоритм решния задачи
 Final Project Repository
